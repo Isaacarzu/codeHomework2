@@ -52,7 +52,7 @@
 </head>
 <body>
 
-    <img src="https://example.com/myimage.jpg" alt="Web Image">
+    <img src= "isaac.jpg"  width="300" height="250"  >
 
     <div id="name-input">
         <label for="userName">Please enter your name:</label><br>
