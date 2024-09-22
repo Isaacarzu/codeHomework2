@@ -49,7 +49,7 @@
             color: #0a0000;
         }
     </style>
-</head>
+
 <body>
 
     <img src= "isaac.jpg"  width="300" height="250"  >
